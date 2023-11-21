@@ -33,6 +33,8 @@ Python was chosen for the analysis due to its versatility and extensive librarie
 
 **Next Steps:**
 The insights derived from this analysis will serve as a foundation for the strategic recommendation in Task 2, where a more detailed and actionable plan will be formulated based on the identified customer segments and their purchasing behaviors.
+
+
 **Task 2: Store Trial Performance Evaluation - Initial Findings**
 
 **Objective:**
